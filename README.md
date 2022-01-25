@@ -29,3 +29,6 @@ Once done, run 'driver.quit()'.
 
 ### Improvements
 A massive improvement would be if someone can figure out how to use the requests package with the Daily Screener because then we could run the program from our smartphones, the end-user would not have to go through this technicality, and could get the PASS with the tap of a button.
+
+### Need help?
+Feel free to reach out if you need assistance.
